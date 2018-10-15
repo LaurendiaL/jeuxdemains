@@ -217,6 +217,7 @@ element.style {
 }
 
 #accueil p {
+	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 20px;
     font-weight: 600;
     color: #482d7c;
@@ -224,6 +225,8 @@ element.style {
     padding: 20px;
 			text-align: left;
 		margin-left: auto;
+			max-width: 85%;
+
 }
 
 #accueil span {
@@ -391,6 +394,83 @@ float: inherit;
 
 }
 
+/* ==============================================
+   CONTACT
+===============================================*/
+#contact {
+	background: url(images/part4.png)top center no-repeat;
+	background-color: #f3f757;
+	background-size: cover;
+	min-height: 98vh;
+}
+
+
+#contact p {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 20px;
+    font-weight: 600;
+    color: #482d7c;
+    margin-bottom: 0px;
+    padding: 20px;
+		max-width: 60%;
+		margin: auto;
+			text-align: left;
+
+}
+
+#contact span {
+	font-weight: 400;
+	color: #0095f7;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+}
+
+
+.content-box {
+	float: inherit;
+	text-align: center;
+
+}
+
+
+/* ==============================================
+   A PROPOS
+===============================================*/
+#apropos {
+	background: url(images/part4.png)top center no-repeat;
+	background-color: #f3f757;
+	background-size: cover;
+	min-height: 98vh;
+}
+
+
+#apropos p {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 20px;
+    font-weight: 600;
+    color: #482d7c;
+    margin-bottom: 0px;
+    padding: 20px;
+		max-width: 60%;
+		margin: auto;
+			text-align: left;
+
+}
+
+#apropos span {
+	font-weight: 400;
+	color: #0095f7;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+}
+
+
+.content-box {
+	float: inherit;
+	text-align: center;
+
+}
+
 
 /* ==============================================
    9. Footer
@@ -426,11 +506,13 @@ footer li {
 }
 
 footer a {
-	color: #62656a;
+	font-family: 'IBM Plex Mono', bold;
+	font-weight: 600;
+	color: #482d7c;
 }
 
 footer a:hover {
-	color: #0095f7;
+	color: #482d7c;
 	text-decoration: none;
 }
 
@@ -445,7 +527,9 @@ footer i:hover {
 }
 
 footer small {
-	color: #62656a;
+	font-family: 'IBM Plex Mono', bold;
+	font-weight: 600;
+	color: #482d7c;
 	float: right;
 }
 
