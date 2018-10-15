@@ -500,6 +500,50 @@ float: inherit;
 
 }
 
+/* ==============================================
+   jeux
+===============================================*/
+#jeux {
+	/*background: url(images/apropos.png)top center no-repeat;*/
+	background-color: #fe896e;
+	background-size: cover;
+	min-height: 98vh;
+}
+
+#jeux h2 {
+	color: #482d7c;
+	margin: auto;
+		text-align: left;
+		max-width: 56%;
+}
+
+#jeux p {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 20px;
+    font-weight: 600;
+    color: #482d7c;
+    margin-bottom: 0px;
+    padding: 20px;
+		max-width: 60%;
+		margin: auto;
+			text-align: left;
+
+}
+
+#jeux span {
+	font-weight: 400;
+	color: #0095f7;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+}
+
+
+.content-box {
+	float: inherit;
+	text-align: center;
+
+}
+
 
 /* ==============================================
    9. Footer
