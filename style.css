@@ -501,23 +501,23 @@ float: inherit;
 }
 
 /* ==============================================
-   jeux
+  page jeux2_1
 ===============================================*/
-#jeux {
-	/*background: url(images/apropos.png)top center no-repeat;*/
+#jeux2_1 {
+	background: url(images/jeux1_1.png)top center no-repeat;
 	background-color: #fe896e;
 	background-size: cover;
-	min-height: 98vh;
+	min-height: 100vh;
 }
 
-#jeux h2 {
+#jeux2_1 h2 {
 	color: #482d7c;
 	margin: auto;
 		text-align: left;
-		max-width: 56%;
+		max-width: 96%;
 }
 
-#jeux p {
+#jeux2_1 p {
 	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 20px;
     font-weight: 600;
@@ -530,7 +530,142 @@ float: inherit;
 
 }
 
-#jeux span {
+#jeux2_1 span {
+	font-weight: 400;
+	color: #0095f7;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+}
+
+
+.content-box {
+	float: inherit;
+	text-align: center;
+
+}
+
+
+/* ==============================================
+  page jeux2_2
+===============================================*/
+#jeux2_2 {
+	background: url(images/jeux2_1.png)top center no-repeat;
+	background-color: #fe896e;
+	background-size: cover;
+	min-height: 100vh;
+}
+
+#jeux2_2 h2 {
+	color: #482d7c;
+	margin: auto;
+		text-align: left;
+		max-width: 96%;
+}
+
+#jeux2_2 p {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 20px;
+    font-weight: 600;
+    color: #482d7c;
+    margin-bottom: 0px;
+    padding: 20px;
+		max-width: 60%;
+		margin: auto;
+			text-align: left;
+
+}
+
+#jeux2_2 span {
+	font-weight: 400;
+	color: #0095f7;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+}
+
+
+.content-box {
+	float: inherit;
+	text-align: center;
+
+}
+
+
+/* ==============================================
+  page jeux2_3
+===============================================*/
+#jeux2_3 {
+	background: url(images/jeux3_1.png)top center no-repeat;
+	background-color: #859ae9;
+	background-size: cover;
+	min-height: 100vh;
+}
+
+#jeux2_3 h2 {
+	color: #482d7c;
+	margin: auto;
+		text-align: left;
+		max-width: 96%;
+}
+
+#jeux2_3 p {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 20px;
+    font-weight: 600;
+    color: #482d7c;
+    margin-bottom: 0px;
+    padding: 20px;
+		max-width: 60%;
+		margin: auto;
+			text-align: left;
+
+}
+
+#jeux2_3 span {
+	font-weight: 400;
+	color: #0095f7;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+}
+
+
+.content-box {
+	float: inherit;
+	text-align: center;
+
+}
+
+
+/* ==============================================
+  page jeux2_4
+===============================================*/
+#jeux2_4 {
+	background: url(images/jeux4_1.png)top center no-repeat;
+	background-color: #fe896e;
+	background-size: cover;
+	min-height: 100vh;
+}
+
+#jeux2_4 h2 {
+	color: #482d7c;
+	margin: auto;
+		text-align: left;
+		max-width: 96%;
+}
+
+#jeux2_4 p {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 20px;
+    font-weight: 600;
+    color: #482d7c;
+    margin-bottom: 0px;
+    padding: 20px;
+		max-width: 60%;
+		margin: auto;
+			text-align: left;
+
+}
+
+#jeux2_4 span {
 	font-weight: 400;
 	color: #0095f7;
 	text-transform: uppercase;
