@@ -1,0 +1,56 @@
+background{
+  color: #edefed;
+}
+
+header {
+    background-color: #82f2ce;
+    width:100%;
+    z-index:10;
+    position:fixed;
+    top: 5%;
+    margin:-50px auto 0 auto;
+}
+
+.navbar-brand {
+  margin: auto;
+}
+
+
+
+body{
+  font-family: 'Karla', sans-serif;
+  font-size:14px;
+  font-weight: 400;
+  width: auto;
+
+}
+
+.illustration {
+
+}
+
+.btn-outline-success {
+    color: #0000FF;
+    background-color: transparent;
+    background-image: none;
+    border-color: #0000FF;
+  }
+
+  h1 {
+  color: black;
+  font-weight: bold;
+  // text-decoration: underline;
+  width:600px;
+  //width: auto;
+  margin-top: auto;
+  margin:auto;
+  }
+
+  .marketing .col-lg-4 {
+      margin-bottom: 1.5rem;
+      text-align: center;
+  }
+
+  footer {
+    background-color: #82f2ce;
+  }
