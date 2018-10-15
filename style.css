@@ -247,6 +247,7 @@ background: url(images/part1.png) top center no-repeat;
 		text-align: left;
 }
 #jeux1 p {
+	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 20px;
     font-weight: 600;
     color: #482d7c;
@@ -282,6 +283,7 @@ float: inherit;
 }
 
 #jeux2 p {
+	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 20px;
     font-weight: 600;
     color: #482d7c;
@@ -326,6 +328,7 @@ float: inherit;
 }
 
 #jeux3 p {
+	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 20px;
     font-weight: 600;
     color: #482d7c;
@@ -362,6 +365,7 @@ float: inherit;
 
 
 #jeux4 p {
+	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 20px;
     font-weight: 600;
     color: #482d7c;
