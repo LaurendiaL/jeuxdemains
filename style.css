@@ -213,6 +213,7 @@ element.style {
 #accueil h1 {
 	font-size: 40px;
 	font-weight: 700;
+
 	text-align: left;
 }
 
@@ -246,9 +247,12 @@ background: url(images/part1.png) top center no-repeat;
 	min-height: 98vh;
 
 }
-#jeux1 h1 {
+#jeux4 h2 {
+	margin: auto;
 		text-align: left;
+		max-width: 57%;
 }
+
 #jeux1 p {
 	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 20px;
@@ -283,6 +287,12 @@ float: inherit;
 	background-size: cover;
 	min-height: 98vh;
 
+}
+
+#jeux2 h2 {
+	margin: auto;
+		text-align: left;
+		max-width: 57%;
 }
 
 #jeux2 p {
@@ -326,8 +336,10 @@ float: inherit;
 
 }
 
-#jeux3 h1 {
-	max-width: 60%;
+#jeux3 h2 {
+	margin: auto;
+		text-align: left;
+		max-width: 57%;
 }
 
 #jeux3 p {
@@ -366,6 +378,11 @@ float: inherit;
 	min-height: 98vh;
 }
 
+#jeux4 h2 {
+	margin: auto;
+		text-align: left;
+		max-width: 57%;
+}
 
 #jeux4 p {
 	font-family: 'IBM Plex Sans', sans-serif;
@@ -398,18 +415,24 @@ float: inherit;
    CONTACT
 ===============================================*/
 #contact {
-	background: url(images/part4.png)top center no-repeat;
-	background-color: #f3f757;
+	background: url(images/contact.png)top center no-repeat;
+	background-color: #f6f6f6;
 	background-size: cover;
 	min-height: 98vh;
 }
 
+#contact h2 {
+	color: #00bcda;
+	margin: auto;
+		text-align: left;
+		max-width: 56%;
+}
 
 #contact p {
 	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 20px;
     font-weight: 600;
-    color: #482d7c;
+    color: #00bcda;
     margin-bottom: 0px;
     padding: 20px;
 		max-width: 60%;
@@ -437,18 +460,24 @@ float: inherit;
    A PROPOS
 ===============================================*/
 #apropos {
-	background: url(images/part4.png)top center no-repeat;
-	background-color: #f3f757;
+	background: url(images/apropos.png)top center no-repeat;
+	background-color: #f6f6f6;
 	background-size: cover;
 	min-height: 98vh;
 }
 
+#apropos h2 {
+	color: #00bcda;
+	margin: auto;
+		text-align: left;
+		max-width: 56%;
+}
 
 #apropos p {
 	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 20px;
     font-weight: 600;
-    color: #482d7c;
+    color: #00bcda;
     margin-bottom: 0px;
     padding: 20px;
 		max-width: 60%;
